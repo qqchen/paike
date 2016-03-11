@@ -1,0 +1,13 @@
+*.opensdf
+*.obj
+Debug/*
+Release/*
+*.sdf
+*.suo
+*.obj
+*.png
+Students/Debug/*
+Students/Release/*
+ipch/*
+*.txt
+*.db
